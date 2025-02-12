@@ -1,7 +1,9 @@
-🎬 Sistema de Recomendación de Películas 🍿
+# 🎬 Sistema de Recomendación de Películas 🍿
+
+
 Este proyecto combina técnicas de filtrado colaborativo y recomendación basada en contenido para ofrecer sugerencias personalizadas de películas a los usuarios. A continuación, se detallan los resultados y el proceso seguido.
 
-📊 Resultados Obtenidos
+# 📊 Resultados Obtenidos
 1. Preprocesamiento de Datos
 Se cargaron los datasets movies.csv y ratings.csv.
 
@@ -80,7 +82,8 @@ scikit-learn para TF-IDF y similitud de coseno.
 
 pandas y numpy para manipulación de datos.
 
-🚀 Cómo Usar
+# 🚀 Cómo Usar
+
 Preprocesamiento:
 
 Cargar y combinar los datos de películas y calificaciones.
@@ -105,12 +108,13 @@ Evaluación:
 
 Calcular métricas como RMSE para evaluar el modelo.
 
-⬇️ Instalación
+# ⬇️ Instalación
+
 Clona el repositorio:
 
 bash
 Copy
-git clone https://github.com/tu-usuario/recomendacion-peliculas.git
+git clone https://github.com/JuanMario0/RecomendacionDePelicula.git
 Instala las dependencias:
 
 bash
